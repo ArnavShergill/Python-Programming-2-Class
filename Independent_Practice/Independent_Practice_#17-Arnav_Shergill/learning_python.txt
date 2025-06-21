@@ -1,0 +1,5 @@
+In Python you can create classes
+In Python you can create variables
+In Python you can make useful applications
+In Python you can make an AI Model
+In Python you can do many things.

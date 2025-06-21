@@ -1,0 +1,12 @@
+Characters:
+Steve
+Alex
+Creeper
+Zombie
+Skeleton
+Witch
+Wither Skeleton
+Blaze
+Piglin
+Ender Dragon
+Wither
